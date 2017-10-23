@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!ELEMENT FirstXMLFile (Name, Title, Email, PreferredIndustries)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT PreferredIndustries (#PCDATA)>
